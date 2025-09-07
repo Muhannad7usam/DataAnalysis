@@ -6,7 +6,7 @@ A GitHub Pages site built without any HTML files — just Markdown + a Pages the
 ```
 .
 ├── _config.yml
-├── index.md
+├── README.md
 └── assets/
     ├── dashboard-1.png
     ├── dashboard-2.png
